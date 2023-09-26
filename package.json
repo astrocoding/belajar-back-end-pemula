@@ -11,6 +11,8 @@
   "author": "zaenal alfian",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.29.4"
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "nodemon": "^3.0.1"
   }
 }
